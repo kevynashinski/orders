@@ -1,0 +1,582 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CpQCCwEAALhDI1TjaEiS6c2SNj3TUSz0pXgQFINs9BGhaIjPYaQvzVQ7bGLquEmZ7fjjZk83CoM0y_K-KxHFVLlyQ9eTetDPk3VZYiW57zziVuO07eOmZXd9spP6NP8ZhbQ_-cyHZG6ObRqWaPP-4usdNr-w8xW9FTupZ9GGwftvaUvea2IeFBCj6kgRQbo0ergzI3BbIStzxRzhzqEoTMtzgl6DCDy6crlIdBcXUNQBpG6VBJFJSXETOrCOUIIZahDxgwW1kqUgsTRzZ6RUQfgfpnNErJBTe24zaF4lp_HA3gbs4bEwx2qk1HfzssdfgrgQbfL-g4XEtuMg0XqrpQfAoUdUmAXbdPITxz4Nh1V31eKrzc9UEhBoPxlPrV0rYflcMeshEJIUGhRl6uBb1DhET-kNqlWsei2T7K4hlA",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.2948213,
+          "lng": 36.7990634
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "4a1dce6e248b552fd122ee44ef7c07213c3dc5d4",
+      "name": "Hurlingham Grocer",
+      "place_id": "ChIJsYPjE74QLxgREkzoRVKZbok",
+      "reference": "CnRlAAAAfWbVAdJoS9Z1UvJGz2S-0bbn9n7WeUz8gHiJOV8d1jp4guc43iBiVexNFkWyP3QIlWnD_d_kXuETfZQJI2GmpgaaTWniE6KaQoHHdypqDCjZmRt6Gw43XRBPSWNcGsZ53mhXKApN37kEFWfC5ZKFxRIQ9nO2uFwzqfonCyg7zWNKvhoUYJCk4zgfz9TzK-R0gSDpv7GGisM",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Argwings Kodhek Road, Nairobi City"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.3083376,
+          "lng": 36.8226904
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "e6e4bb5fbcbf4950e80015a573dfeb90e54828c3",
+      "name": "Uchumi Supermarket - Nairobi West",
+      "place_id": "ChIJ6-FeUP4QLxgRVHm4N0fq2Lg",
+      "reference": "CoQBdQAAAHo89NKh4rTbSS5hViCon-8U5-f8yvBUbQSRif8oz4gfzfYbJ-zgJL3viGLv8RWlBztm3TaJKMhq9ReyC7tC9-pCJiKrpAwmkm9z8jK7XKbPA3Xwgyp8a7GvRQTuHra8ATHpbY5xAfgMyH-7L4pEAKcorDZZlI3su4iJ4we0SQ_8EhAgM9oi1eCb5iB3g55HR42bGhQGQKzJnyWoyUdSxLoSpGCeTbpnuQ",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Muhoho Avenue, Nairobi"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.2596318,
+          "lng": 36.8184324
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "39ce3210c0bdfb6929c531dbb3c18b740f8395e0",
+      "name": "Nakumatt Highridge",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1585,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111145453700867894817/photos\"\u003eZak Esmail\u003c/a\u003e"
+          ],
+          "photo_reference": "CoQBdwAAAPdtYzRtvChM5kpWSmlnCgCx3zj2A1NMdcA0Gu8UBSvH-dWwXwwGLzp9lD1Bel2Aya53FZjz2Hay9jm3_eBGrvghLu21guDAI7iv2AMfGprC9bUOBeEzWG58iDlkWkZobwugyRgW085voyOsXmK-2O7iOhIs3_XdLZa7C5oIZ00vEhBstSUEdtoxDqMMPYYFEDHqGhQh_4AFYJyqwq_LUthkYjDOAKbRfA",
+          "width": 1189
+        }
+      ],
+      "place_id": "ChIJdxvD6RsXLxgRnkhjKpJiBW8",
+      "rating": 3.7,
+      "reference": "CnRlAAAAOgq7-5T1YOtiZB1rPUCdsz_mEsNboAqxYqLoVCv9YV-1u_o9MYgaUxQXGH7hevqXNRcM2y8c0mboxI8x7F3ppkDYcyZ4p3qnq688LzidVonrC-vqiTKYGcnuhPBChnx9mJLxQPDyEx8sPzQOYaZD3hIQucQMsGK1DIu05vKjUqV4YxoUuceGnrTH5_sBwqAWwc8gF635slQ",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Highpark Building, Third Parklands Avenue, Nairobi City"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.2815429,
+          "lng": 36.8182433
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "69bd04e3438a6929309bc3e9917a5fe11056ddcc",
+      "name": "Nakumatt Lifestyle",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 582,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102933928321880459016/photos\"\u003eOsman Abdikarim\u003c/a\u003e"
+          ],
+          "photo_reference": "CoQBdwAAAAduV7Mlmtf9xON4oGgaeu5mJywEWb8-FtJXe9PTy5y3ouZ8RXbYB_CRLfAEtV0SHYokhkvkdM8USLkGvq5ba_D4ff10ruCbOeCwSxQ0lrXneVrmZqovwqVDlVpopbQ7XQvEW1qqYIdjk7emuN_X-l2BiWt9XfxxOiLgX9IXGbFNEhCHW9QVmtGS10EwNHT8nCE2GhRWx6jA_5L_iMJ231UQnIbUiDp51A",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJszuZn9MQLxgRjRVyQDAYqvs",
+      "rating": 3.9,
+      "reference": "CnRmAAAAiAX2oDJR3FXS2WSCqroL0dsPoAKKwVl78cKA3YonlN8KDP5mOwVSvzS8Yv04Y9j_8IyiNVIEA-KWoADPSIfW016oX5SyOmqGsM2P8GueTRVL4quTDZBlaUrdARUsT5AgohPLTzQvIUcquP3YSpslUhIQybldu5oPBFCHCiPkNaUhPhoUIkWK83InAIV9gQSZm75b2ttk6Z4",
+      "scope": "GOOGLE",
+      "types": [
+        "shopping_mall",
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Monrovia Street, Nairobi City"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.3030979,
+          "lng": 36.826086
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "99da31841a68cc81978821a2880bf5a11fc19d7c",
+      "name": "Nakumatt Mega",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113942808067820616480/photos\"\u003eCs Lgesk\u003c/a\u003e"
+          ],
+          "photo_reference": "CoQBcwAAAJPzysezfl0dzX0TK_rRvZ-B1O7H-KqpWMavu0_TAo_Klx_hmDIjqQO5C5Rl5QaRBio9PKsNk1pDdO-sdhy_Jm-9wlItMNDbAVk1CChM_NZdxtSDA2_6aP93o6REmKppm2PwhvPLNPSq75f1gC3NaTiorXBCgHMIUblJWVCpdPL5EhA07Dn443-N5YQJRH1__1xlGhTXAVRNXLGGzMNCT9PIEj8Ezv0gEA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJq23KtQIRLxgRxz7BZL1xmvg",
+      "rating": 4.3,
+      "reference": "CnRhAAAAuufNs7vknEpwiWTJ9Svyir5BEcS4AibANouAtBl_GIIoZ3rFO7NMCc9IJ80N8vtspw3aUZ1U7fxHEQLK-eUO1T9zycciADghj5ObkPu1lR_j_jI-ViwvCyYUs_calovKV5bBOnM6WOmIy9EjqbyuWxIQoLPBjPc_sOQszM7VRuvL5RoUy5JBKoXoxg_oEiMeM1ps2Qpnad0",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Kariba, Nairobi"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.2872331,
+          "lng": 36.8254349
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "9b6944beefb7ee0f2e6f20756acfd55dd95a2933",
+      "name": "M-Pesa Uchumi Supermarket",
+      "photos": [
+        {
+          "height": 307,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117440779134458853047/photos\"\u003eM-Pesa Uchumi Supermarket\u003c/a\u003e"
+          ],
+          "photo_reference": "CoQBcwAAACj3jypkFuyAHCGonpVAaosUJy9YFEaam96K4lW0_EIKnlkF68i1_CJJ9XpsUugsIr_3Q6B8Zw69cxT79jVfDZPaFVLAR2j8JTbsCzDAU7CtLPAt4vY4GrtknGloQQodVdTlRpCYNmijIsomdSOfAPRCJ_bBYG463qbT7QmQr6LfEhCASbY8HRhf4dSzAmAUBqigGhRgXAtXRL7ebs_DDIiyGkkdRVKl4A",
+          "width": 409
+        }
+      ],
+      "place_id": "ChIJz6zD_ScRLxgRwpts1DYUHr4",
+      "reference": "CnRtAAAAdftd3nhgUtGQQBdIWMHheuPWYNkaMUHDosXu5bINgnCqQ0N_bTzUqKShg0kpyBHd9pLGqKIbigUdu0uVG_G8AH1IMnQoYuM5xljXfRQjcylQgrfEFh29AnBU4NSd7y2leyUur5geb3ev5sRmHFsgwxIQ0_c4n1sUUhz4gc9R6XAA9xoUu-oGPFvdNOHlk1Ktt2UywCsy6Pk",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Nkrumah Lane, Nairobi City"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.258823,
+          "lng": 36.8046471
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "2dac3889a3a8d92c95cc305aa7d0b8af70f52c5d",
+      "name": "Nakumatt Ukay",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102933928321880459016/photos\"\u003eOsman Abdikarim\u003c/a\u003e"
+          ],
+          "photo_reference": "CoQBdwAAAF3YVhKETkMTt1Shxm9iCkuz8BDEbr-hZ7My42_Z_Z_jlmP60OzDnEYCXxqkoay3i6x3pnaEBxrJig7VfiMj1LDQPa2z3QEvJF60t70a1OqR5yYfqAl6YnWTcchc1V_2ukgrXHeFXZbZpI2v64ZPkCylAYz361syu0rzs3Yz86mOEhAfDd79uW371g_YNIr_6Nt1GhTQphW_UzTZM5Ujmn9YZ4De0VoVcg",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJXRoyUm0XLxgRTBpErANUDVQ",
+      "rating": 3.6,
+      "reference": "CmRgAAAAn0o0YBb05RJM7joqHlTat--qhE-r5LwW2m0gfgt08hOnQIxuw6tqt6WEt14KyIOK98Tzn_IQysFBwAgEoxIUE4YdNhYH5gCOlHqHveIKnUbj0mKMV91HwZRVwRwBwn0aEhBEvbRhPDQbJtens0zXp68_GhT8z-ucrZbp8m3w50YptkjpzQznBg",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Mwanzi Road, Nairobi City"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.2850796,
+          "lng": 36.82757710000001
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "a50704affeb125005587388d4f214d69c6959ae7",
+      "name": "Tuskys",
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108530539028408009225/photos\"\u003eGideon Mwangi\u003c/a\u003e"
+          ],
+          "photo_reference": "CoQBcwAAAOFQh08NQ14I8Q9FdFFACGGPui8IMUVCMl6DoBmUKYkYokMlWKRTm2YIcZ_uFMWgyNOZEyqAHfxvT7KJHXGGeBXZrxPT7_PE6d48BYihkCfvr9onaTVzS-mLbqta2AtI7WGPTn8oFP8oKfDgtfRzfFczcS31UGaVrzHd1Ob01jfhEhClUTvqOW1JL71J6nLbbK7qGhQimbD471ULDhqEkqtD4yRQ26G04Q",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJw7SYqSkRLxgRnOOnrxiCVg4",
+      "reference": "CmRZAAAAa2mqEiLcr27bk-dlu2RlhsDcw29WnYaaw58FYqf6GiVMBzW8BjPMQBWTntiRzh2qXF7hNjFUt_nmAFEE9TpphoPOQpjWpV62QjawyVsILxI4c71mvxRd5qkKBgqocFR8EhA0kZyRLRLbZG9E0VYOIDKDGhRXgBoV2-7ZxXxjeXQx7nPe9edqAw",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Sheikh Karume Road, Nairobi City"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.2848813,
+          "lng": 36.8197251
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "559fa91045d79dcd889dda86cdbbff270affda59",
+      "name": "Tuskys",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102468861428844581010/photos\"\u003eKoffi Mukiri\u003c/a\u003e"
+          ],
+          "photo_reference": "CoQBcwAAANitdQNbUr_xGKpN6c_zoO0wc8lK1IFMd6kLjv6ATcxHDB2n4AvOfavXuUmrYwel6IzN-RvsTweucvk4PaYXMHBgtWzFBudPpKWkXvXmjpKH_og8Ty1uSkbtQgdrWs74ronSDie30UzKwXjQ5iJXarZo64a6gHgq40ieE5DZax29EhBnLDo_p-v1324ba9Yn_6GXGhThsM63X0ycotaw7q-lae8MNKim6A",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJ3yZCNNEQLxgR0C6ixXSMvGE",
+      "reference": "CmRZAAAAuu_jhhKyXuy_EYtCU2OGSQUy_gfFkqvuHJIj4rCIrXxqeHyPo7aL3uxY68r-F1fYndmBh1f498sZ8UJnV8hzMl5avpJjXIPSKVs6atJf0Irt-_Vbvp1FJyvniHrtOrsiEhDrVhHqjRnEzNCnlfV8ZVufGhT_qC5utzKjtKdY2fDccOIeFObQVQ",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "P.O Box 54280, Nairobi"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.284915,
+          "lng": 36.823911
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "d057de46001c802bedc213cf9051e2eda1a25583",
+      "name": "KARI IMPROVED KIENYEJI CHICKS",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 308,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102104938884519932276/photos\"\u003eKARI IMPROVED KIENYEJI CHICKS\u003c/a\u003e"
+          ],
+          "photo_reference": "CoQBcwAAAJoYAwyVkIvuL0nqC1GGDk6h8DoxqaSr18iK3GdTWyWVjNvseYsu9T2c5NqXWtL5imzvrYAyLh0SshGMIN3j7KuAApdGcrEyKJsUBx6_6Pj-NCKrPdi0fHuCLjc4vbgswNwUopikfs1VUCn-wXwP2-8ZFlLmpDXetde7EMTTzcOEEhDL9Vr5V6u0DW7clWcdbnFmGhRvfovguP4jbtpW8vlGkM9uPVr92A",
+          "width": 306
+        }
+      ],
+      "place_id": "ChIJnVPbOdYQLxgRMLAkMIirj5A",
+      "reference": "CoQBcQAAAH56VBTU65dZxbQ1C_5PJo999GaCBCxFt29Mv4zWQ_Et3QdM5n3ORbdEr2QEqNcr2EFWHze5q9lNHWUjAHEfig5XIp7nWSBsUEOhtCgafVpHM2mwh-sz63iS4_RRrZDj6PBdWu_elrRFMIEae44nEW5MpjbaH5Y6J90qbMv6xXTgEhC1_330c3uH1R9cPXRxqennGhTkLg1H4JsCjt2uo1sL6wpaQFbIRQ",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Corner House, Nairobi"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.3031568,
+          "lng": 36.80134989999999
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "8a6c8c1368748e97a2a19de740c5e8e7f4af431f",
+      "name": "Kayalo Groceries",
+      "place_id": "ChIJN3Img5IQLxgR6UH4aRkro40",
+      "reference": "CnRkAAAAjbp3PyyMZxwwTtpGmWxqPhXJ10gOv-ZyMnMoZSTp-1F8fovjfC1P5wSF5kSu-Kpdk24FPgZ2EHC47vd3be1DR5yAiHTWxZ2VPvGp3AYddvK8WbrQyUBHqs2eTAVZ2oGlolXv31Bks9KHI6Ct__Vd4RIQ0bHHGZvulfXD9qfpuYrE6BoUKGkeQibK9at01HH3V0vJ9ooSBtk",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Golf Course 1, House 207, Mbaruk Mbaruk Road, Nairobi City"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.2883763,
+          "lng": 36.8275076
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "ddd0d17b78ad83e1905f9841351610e70d6bc14a",
+      "name": "Fonexpress Nakumatt Moi Avenue",
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115240931428353176673/photos\"\u003ePhanuel Okata\u003c/a\u003e"
+          ],
+          "photo_reference": "CoQBcwAAAMW3JNyliNxAmC5S82IWNmWKHKdn46r7_AMyWmli1BoSy7N0w6eeKiSMQW-2trc5povcRh2Y-rHxDxmMgei9x3Ji5Te13fREBQkRZ2yj6JdqQJjhtI6Bjf_ru0Jk-XDQn1ynAF6t1CDhaw29DstjHTmuDPQU2fSDd-OflPD1rL4OEhDocGq3Q5ui7IkHVvRCK_4WGhQZ2n05saOvq6_bKgvwMMDnFm5DJQ",
+          "width": 768
+        }
+      ],
+      "place_id": "ChIJmQOwtScRLxgRG5k6C5B-R6A",
+      "reference": "CoQBcgAAAA3DNbSgjKXw4v1qdncAi2P3yRyADuNbW4vO9hrCHiRoobhE8goxW9rEerECUd0oqRloo1BoaN462SXlm1Y0FzBtxvws3IfBzvu2DUsT9zGRw6lzayZ8DMCLFY8aIfAO_MS7qdfbpW2BVrNWR7ijM6LvYrt3J1Jzx7UfPn_ICPHREhC3n1Xe-UwShKuBTx3w5z08GhTKM1Hbv2TqrXINbIXojjOcQQjj0A",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Development House, Tom Mboya Street, Nairobi"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.2822787,
+          "lng": 36.8226938
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "2962cd7011de72dfa62ea5334d01c069967ded03",
+      "name": "Nakumatt Supermarkets",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107828472957581471174/photos\"\u003eRinesh Andrews\u003c/a\u003e"
+          ],
+          "photo_reference": "CoQBcwAAALW350T-oDsxafCEzKJvIf3ytdhtKwuBMI8jO2-IYLYpzITEJY7A9OmutzlnDqWbYZP4POZ9D-lCJN9vvAbuZcsXKQ8-7CSAvOu5WiiKGNdXRQr7O3EZDtHG-QD-vSFEKsG7XvENBPdwsFMKFHVwsDSlR5FZU339AG4zzVjk1tRbEhASS1f8BA_PtLfIoZuGUDeYGhTiJB4Y-BqjTwNW9IpBLJTbf3UD3Q",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ9RoDtNUQLxgR1auAidK3nBM",
+      "reference": "CnRoAAAABMjR7WFHtzzLBuzcemdW5ZXu4j_mD9BxMJPNq7wTI_oIGgRaBvSFHjDxtep-vWSb5bHn20mzU56R-QlP1YvtBCNzCB_lV3PjEZff7ihJH-r4EzJ2V2hSPCL0spkoVoeA7WMWDNAA9EkXJoOpa0KyUBIQf2ZPzMPqxcQIFB9lsLXRORoUGCa1xLnp9wlHYYNrO2T2ZCY3fD8",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Moi Avenue, Government Lane, Nairobi City"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.2880388,
+          "lng": 36.82940019999999
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "afa8099d049cb7d682f096e6e359409ea98fd1da",
+      "name": "Ukwala Supermarket",
+      "place_id": "ChIJq48hLyYRLxgRh0QUU6sSego",
+      "reference": "CnRlAAAATxNORv4YhlqgpStK2nw26UwCZ11IzDVDEdJdJRXXJ7HeVvYn5GdUuA3YB5eSENnCxN1wfGRexs-6bkRUt6Bm3TImL1GDxpA5eLrjJ1ynxSzgF7d74T35mCszA6BKuIvmPsBH_52eagmofCri7oAzmxIQ48pfuNAKBILqj9UTbAl2nxoU-7H2WVtgIv0NI0DbMqgBGvlyT44",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "P.O Box 3467, Nairobi"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.29027,
+          "lng": 36.822904
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "d5b52f52d0dff2037f3915549e4eea415bd3d03a",
+      "name": "Fonexpress Nakumatt Haile Selassie",
+      "place_id": "ChIJBdVQLN8QLxgRrVy9oF_eyHs",
+      "reference": "CoQBdQAAAGZpjq33fRholk6nRcDp6oqVBIqi4yqSvKfv7BH_ZurnRuEqf-Ta94qTHa9rGZl2-NSX2XYrCQqsMDIn4PFP1Ut8aaP8aF73XWlsL57D96h0Y8fOcea-TqzsLm0da1XUSwYAPpW97LGV2vp5_s0IgSRIws9Mtd2rDmBSzsBWAvE1EhBuo0hdt5jAjTBKXt_rMgEaGhTcokWIgLJoW6CKh7C8mwLeteXFVA",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Haileselassie Avenue, KU Plaza, Nairobi"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.2874505,
+          "lng": 36.8285265
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "9785bda87ebcac70d42a892ed8c950de23fc384c",
+      "name": "Tuskys Supermarket",
+      "place_id": "ChIJN4xaJiYRLxgRzymybHXmQeM",
+      "reference": "CnRmAAAAdTgZ87JzuHx7W0hNg-3H3e2mCSyfQoLi1qfSkx6onUCIh80avzuTts-O4UiY4pnEHjTkK1bO6pYWhjymrnfeXw7pFGAn0K3FxSMIzniaL3NKqm6s0jkC3iDBWEzRnCmUW52HczrPaXSOWAJYc9DTlRIQI-KR923TU5byp1UW34wMMRoUkIHMvQFi8w5xzbLCgoJ-YERqx_4",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Reli Co-op House,, Mfangano Street, Nairobi"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.2862233,
+          "lng": 36.8227656
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "15ba1ab6353628c770027d03b5c09e42a209e62d",
+      "name": "Nakumatt Cityhall",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "place_id": "ChIJwdwRctcQLxgRRDoxNJ3kLqI",
+      "reference": "CnRlAAAAEvUPOOEHpPUZ6Z8mX18vbjdnU7tmULAJwSMJ6xJNCj7BconoU-e_Anz7x8X_1PhP-hrkGMzzA36utz3eQpWjqQK895_pcJORzfhGNfPPZ54IR9ced9LAYqcopZ5mx27WVUgpT137ZcXA8wpOkMv6tBIQp1pRalq485Ktl6-BRZKu9hoUCXLmFmFazT6JH8J8_ZiX_C-6S1Q",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Opposite City Hall, Wabera Street, Nairobi"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.2850633,
+          "lng": 36.8288796
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "bcf0bf415a7032c1b280b18069a3d6805a2e6da1",
+      "name": "Fonexpress Nakumatt Ronald Ngala",
+      "place_id": "ChIJD64oHykRLxgRfdZjnknQi5w",
+      "reference": "CoQBdAAAAKj5gZryaHEVO_VcMtnv0ivxbj4DP3sqFOGpxBH4CRLjJ-UzQbwE8AOF_jT9CzllpT-p6x-NQoS9LrocR_3Hfc-3o_iBjr5V7UI6fwUEhHZ7thghkW0RdOKwsJcTt0-9AlIZbeaAsSBPe8iMk-ui400LQCxvc91aA57YWrtABOTgEhDctOsQYHhRupB64xkQfpO3GhRQmD9o707MxtageKBn3BucVr22fg",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Ronald Ngala Street, Nakumatt, Nairobi"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.2854877,
+          "lng": 36.8266775
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "577a86324b4da1a8c62412819c2006a57a9c5c23",
+      "name": "Ukwala",
+      "place_id": "ChIJp_N1SygRLxgRj7AkwOb_Mes",
+      "reference": "CmRaAAAALptAmXCYX0z6ZOBqJu6oVyoeyB9v0AZWlGWiQAlR9k636vUf7UoECMUmakKAxoyJiS5C0v549hDuZX1R0UBPx6gAuTuDjkbIU_mIpmau2O3Mmo3dm-OxLyqP0It9D8KMEhBFntnZKdM2AyuLXaCcOj7zGhT7OmnAIWKRF_ZtQU0nLrqLUPwfJw",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Tom Mboya Street, Nairobi City"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -1.2910559,
+          "lng": 36.8210364
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "64fa16bcab9e13432caa0ba7dbae6d1a93803406",
+      "name": "AMANI GROCERY",
+      "place_id": "ChIJX7snNtkQLxgRcbBrWf4g9mE",
+      "reference": "CmRgAAAAgbkUzY8ZRH5LD8FC35BkZJY3r__eOVglcFgAsRQpnzi_PlkyjDB4VDAQ6bK7Hv1k2JLZhnktLaZgpiYBWxOo_IhCJi9vA_MGOx9VvaR2-_c5j-XUobMuyc3t5N8u30SmEhAqeLFDrz_ZOjnkM1bA-xI0GhT9SUhT7v_6CM5RzaLyZ3WX-2m-4g",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Rhoda Street, Rhoda Nakuru, Close to the Nyokima Mattresses County Lane, Nairobi City"
+    }
+  ],
+  "status": "OK"
+}

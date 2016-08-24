@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - orders@localhost" uuid="9ae2aa6a-32aa-4392-ba0f-30309006c90c">
+    <database-info product="MySQL" version="5.5.5-10.1.13-MariaDB" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+    <database-model serializer="dbm" rdbms="MYSQL" format-version="2.6">
+      <schema id="1" name="orders">
+        <visible>1</visible>
+      </schema>
+      <schema id="2" name="androidmastermind"/>
+      <schema id="3" name="church"/>
+      <schema id="4" name="clubs"/>
+      <schema id="5" name="information_schema"/>
+      <schema id="6" name="jemmin"/>
+      <schema id="7" name="muuscorp"/>
+      <schema id="8" name="mysql"/>
+      <schema id="9" name="performance_schema"/>
+      <schema id="10" name="phpmyadmin"/>
+      <schema id="11" name="picmailer"/>
+      <schema id="12" name="reports"/>
+      <schema id="13" name="serieshub"/>
+      <schema id="14" name="test"/>
+      <table id="15" parent="1" name="category"/>
+      <table id="16" parent="1" name="product"/>
+      <table id="17" parent="1" name="supermarket"/>
+      <column id="18" parent="15" name="supermarket_id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+      </column>
+      <column id="19" parent="15" name="category_name">
+        <mandatory>1</mandatory>
+        <data-type>varchar(100)|0</data-type>
+      </column>
+      <column id="20" parent="15" name="category_description">
+        <mandatory>1</mandatory>
+        <data-type>tinytext|0</data-type>
+      </column>
+      <column id="21" parent="15" name="category_icon">
+        <data-type>text|0</data-type>
+      </column>
+      <column id="22" parent="15" name="created_at">
+        <mandatory>1</mandatory>
+        <data-type>timestamp|0</data-type>
+        <default-expression>CURRENT_TIMESTAMP</default-expression>
+      </column>
+      <column id="23" parent="15" name="category_id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+        <sequence-identity>1</sequence-identity>
+      </column>
+      <index id="24" parent="15" name="category_supermarket_id_fk">
+        <columns>supermarket_id</columns>
+        <desc-columns></desc-columns>
+      </index>
+      <key id="25" parent="15" name="PRIMARY">
+        <columns>category_id</columns>
+        <primary>1</primary>
+      </key>
+      <foreign-key id="26" parent="15" name="category_supermarket_id_fk">
+        <columns>supermarket_id</columns>
+        <ref-key>~.supermarket.PRIMARY</ref-key>
+        <cascade-update-rule>restrict</cascade-update-rule>
+        <cascade-delete-rule>restrict</cascade-delete-rule>
+      </foreign-key>
+      <column id="27" parent="16" name="category_id">
+        <mandatory>1</mandatory>
+        <data-type>varchar(100)|0</data-type>
+      </column>
+      <column id="28" parent="16" name="product_name">
+        <mandatory>1</mandatory>
+        <data-type>varchar(100)|0</data-type>
+      </column>
+      <column id="29" parent="16" name="product_price">
+        <mandatory>1</mandatory>
+        <data-type>double|0</data-type>
+      </column>
+      <column id="30" parent="16" name="product_id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+        <sequence-identity>1</sequence-identity>
+      </column>
+      <column id="31" parent="16" name="created_at">
+        <mandatory>1</mandatory>
+        <data-type>timestamp|0</data-type>
+        <default-expression>CURRENT_TIMESTAMP</default-expression>
+      </column>
+      <key id="32" parent="16" name="PRIMARY">
+        <columns>product_id</columns>
+        <primary>1</primary>
+      </key>
+      <column id="33" parent="17" name="supermarket_id">
+        <mandatory>1</mandatory>
+        <data-type>varchar(100)|0</data-type>
+      </column>
+      <column id="34" parent="17" name="place_id">
+        <mandatory>1</mandatory>
+        <data-type>text|0</data-type>
+      </column>
+      <column id="35" parent="17" name="supermarket_name">
+        <data-type>varchar(100)|0</data-type>
+      </column>
+      <column id="36" parent="17" name="reference">
+        <mandatory>1</mandatory>
+        <data-type>longtext|0</data-type>
+      </column>
+      <column id="37" parent="17" name="created_at">
+        <mandatory>1</mandatory>
+        <data-type>timestamp|0</data-type>
+        <default-expression>CURRENT_TIMESTAMP</default-expression>
+      </column>
+      <column id="38" parent="17" name="id">
+        <mandatory>1</mandatory>
+        <data-type>int(11)|0</data-type>
+        <sequence-identity>1</sequence-identity>
+      </column>
+      <key id="39" parent="17" name="PRIMARY">
+        <columns>id</columns>
+        <primary>1</primary>
+      </key>
+    </database-model>
+  </data-source>
+</component>

@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "category_id": "1",
+      "category_name": "Beverages",
+      "category_description": "Soda, cold drinks, fruit juice",
+      "category_icon": "http://www.princess.com/images/ships-and-experience/food-and-dining/beverages/all_inclusive.jpg"
+    },
+    {
+      "category_id": "2",
+      "category_name": "Canned goods",
+      "category_description": "vegetables, spaghetti sauce, ketchup",
+      "category_icon": "http://www.foodanddrinkeurope.com/var/plain_site/storage/images/publications/food-beverage-nutrition/foodproductiondaily.com/packaging/canned-foods-industry-in-decline/8255380-1-eng-GB/Canned-foods-industry-in-decline.jpg"
+    },
+    {
+      "category_id": "3",
+      "category_name": "Frozen Foods",
+      "category_description": "waffles, vegetables, individual meals, ice cream",
+      "category_icon": "http://silvamkt.com/departments/frozen/frozen.jpg"
+    }
+  ]
+}

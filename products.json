@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "product_id": "1",
+      "product_name": "Apple Juice",
+      "product_price": "200"
+    },
+    {
+      "product_id": "2",
+      "product_name": "Milk",
+      "product_price": "50"
+    },
+    {
+      "product_id": "3",
+      "product_name": "Coffee",
+      "product_price": "150"
+    },
+    {
+      "product_id": "4",
+      "product_name": "Soda Bottle 500ML",
+      "product_price": "50"
+    },
+    {
+      "product_id": "5",
+      "product_name": "Keringet Water 500ML",
+      "product_price": "80"
+    }
+  ]
+}
