@@ -20,7 +20,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     $sql="select * from users WHERE id_number='$idNumber' LIMIT 1";
 
-    if($conn->query($sql)){
+    if($conn->query($sql)->rowCount()>0){
         echo 2;
     }else{
 
