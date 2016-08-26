@@ -15,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     $conn = Database::connect();
 
-    $sql = "select * from product WHERE category_id='$category_id'";
+    $sql = "select * from products WHERE category_id='$category_id'";
 
     foreach ($conn->query($sql) as $row) {
 

@@ -10,6 +10,8 @@ include_once 'Database.php';
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
+    if (isset($_REQUEST[ID_NUMBER])) {
+
     $idNumber=$_REQUEST[ID_NUMBER];
     $fullName=$_REQUEST[FULL_NAME];
     $phoneNumber=$_REQUEST[PHONE_NUMBER];
@@ -18,7 +20,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     $conn=Database::connect();
 
-    $sql="select * from users WHERE id_number='$idNumber' LIMIT 1";
+        $sql = "select * from users WHERE id_number='$idNumber'";
 
     if($conn->query($sql)->rowCount()>0){
         echo 2;
@@ -40,6 +42,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         }
 
         Database::disconnect();
+    }
     }
 }else{
     echo 3;

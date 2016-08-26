@@ -18,6 +18,11 @@ define("PRODUCT_ID", "product_id");
 define("PRODUCT_NAME", "product_name");
 define("PRODUCT_PRICE", "product_price");
 
+//Orders key
+define("ORDER_ID", "order_id");
+define("ORDERED_DATE", "ordered_date");
+define("QUANTITY", 'quantity');
+
 //Supermarket key
 define("SUPERMARKET_ID", "id");
 define("SUPERMARKET_NAME", "name");

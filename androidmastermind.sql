@@ -79,7 +79,7 @@ CREATE TABLE IF NOT EXISTS `supermarket` (
 -- Dumping data for table `supermarket`
 --
 
-INSERT INTO `supermarket` (`id`, `supermarket_id`, `place_id`, `place_name`, `reference`) VALUES
+INSERT INTO supermarkets (`id`, `supermarket_id`, `place_id`, `place_name`, `reference`) VALUES
   (1, '39ce3210c0bdfb6929c531dbb3c18b740f8395e0', 'ChIJdxvD6RsXLxgRnkhjKpJiBW8', 'Nakumatt Lifestyle',
    'CnRmAAAAiAX2oDJR3FXS2WSCqroL0dsPoAKKwVl78cKA3YonlN8KDP5mOwVSvzS8Yv04Y9j_8IyiNVIEA-KWoADPSIfW016oX5SyOmqGsM2P8GueTRVL4quTDZBlaUrdARUsT5AgohPLTzQvIUcquP3YSpslUhIQybldu5oPBFCHCiPkNaUhPhoUIkWK83InAIV9gQSZm75b2ttk6Z4'),
   (2, '99da31841a68cc81978821a2880bf5a11fc19d7c', 'ChIJq23KtQIRLxgRxz7BZL1xmvg', 'Nakumatt Mega',

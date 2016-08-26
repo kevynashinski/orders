@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 //$supermarket_id="a50704affeb125005587388d4f214d69c6959ae7";
 
-    $sql = "select * from category WHERE supermarket_id='$supermarket_id'";
+    $sql = "select * from categories WHERE supermarket_id='$supermarket_id'";
 
     foreach ($conn->query($sql) as $row) {
 
