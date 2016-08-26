@@ -6,7 +6,7 @@
  * Time: 1:07 PM
  */
 
-require_once 'DbConnect.php';
+require_once 'Database.php';
 
 if (Database::connect())
     echo 'Ready to Roll!!!';

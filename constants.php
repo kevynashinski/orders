@@ -21,3 +21,12 @@ define("PRODUCT_PRICE", "product_price");
 //Supermarket key
 define("SUPERMARKET_ID", "id");
 define("SUPERMARKET_NAME", "name");
+
+//User key
+define("ID_NUMBER", 'id_number');
+define("FULL_NAME", 'full_name');
+define("PHONE_NUMBER",'phone_number' );
+define("GENDER", 'gender');
+define("LOCATION", 'location');
+define("USER_ID" ,'user_id');
+define("CREATED_AT", 'created_at');
